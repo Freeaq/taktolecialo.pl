@@ -1,0 +1,13 @@
+section {
+    width: auto;
+    height: auto;
+
+}
+h2{
+    padding-top: 10%;
+}
+@media (max-width: 768px) {
+    h2 {
+        padding-top: 30%;
+    }
+}
